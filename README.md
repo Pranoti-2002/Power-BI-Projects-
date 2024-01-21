@@ -30,5 +30,7 @@ This repository contains a comprehensive Amazon Data Analysis report created usi
 - `Reports`: Includes the Power BI report file (`Amazon_Data_Analysis.pbix`).
 - `Visuals`: Screenshots or images showcasing different visualizations.
 
-- ## Mobile View
+ ## Mobile View of Report
+<!-- Adjust the width and height attributes based on your preferences -->
+<img src="https://github.com/Pranoti-2002/Power-BI-Projects-/blob/main/Mobile_View.png" alt="Mobile View Collage" width="400" height="500">
 
