@@ -1,6 +1,6 @@
-# Amazon-Data-Analysis 
-![Output](https://github.com/Pranoti-2002/Power-BI-Projects-/blob/main/Report.png) 
 # Amazon Data Analysis Report
+
+![Output](https://github.com/Pranoti-2002/Power-BI-Projects-/blob/main/Report.png) 
 
 ## Overview
 This repository contains a comprehensive Amazon Data Analysis report created using Power BI. The report aims to provide insights into the sales data of Amazon, offering a detailed analysis of various aspects.
